@@ -24,7 +24,7 @@
     }
   },
   "dependencies": {
-    "log4js": "1.1.1",
+    "log4js": "6.4.0",
     "nuclide-commons": "0.7.3-dev",
     "nuclide-commons-atom": "0.7.3-dev",
     "nullthrows": "1.0.0",

@@ -39,7 +39,7 @@
     "inversify": "4.11.1",
     "line-by-line": "0.1.5",
     "lodash": "4.17.10",
-    "log4js": "1.1.1",
+    "log4js": "6.4.0",
     "minimatch": "3.0.4",
     "nuclide-commons": "0.7.3-dev",
     "nuclide-commons-atom": "0.7.3-dev",
