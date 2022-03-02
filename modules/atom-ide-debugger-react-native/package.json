@@ -47,7 +47,7 @@
     "nuclide-commons-atom": "0.7.3-dev",
     "nuclide-commons-ui": "0.7.3-dev",
     "nuclide-debugger-common": "0.7.3-dev",
-    "plist": "2.0.1",
+    "plist": "3.0.4",
     "q": "1.4.1",
     "react": "16.6.3",
     "request": "2.79.0",
