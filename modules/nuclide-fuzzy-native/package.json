@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "heap": "0.2.6",
-    "log4js": "1.1.1",
+    "log4js": "6.4.0",
     "nuclide-commons": "0.7.3-dev",
     "nuclide-prebuilt-libs": "0.5.2"
   }
