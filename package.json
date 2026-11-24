@@ -244,5 +244,8 @@
     "nuclide-format-js",
     "set-syntax",
     "sort-lines"
-  ]
+  ],
+  "resolutions": {
+    "y18n": "3.2.2"
+  }
 }
